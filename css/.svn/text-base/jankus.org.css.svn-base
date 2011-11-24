@@ -1,0 +1,143 @@
+body {
+	font-family: "Helvetica";
+	background: #222;
+	color: #222;
+	background-image: url(../images/background.png);
+	
+}
+
+div#wrapperleft {
+	border: 0px solid #fff;
+	width: 720px;
+	height: 455px;
+	margin: 0px auto;
+	margin-top: 60px;
+	
+}
+
+div#wrapper {
+	border: 5px solid #00171C;
+	width: 725px;
+	margin: 0px auto;
+	background: transparent;
+	height: 445px;
+}
+
+div#innerleft {
+	border: 0px solid #222;
+	width: 300px;
+	background: transparent url(../images/bg2.png);
+	float: left;
+	height: 445px;
+	padding-left: 15px;
+}
+
+div#innerright {
+	border: 0px solid #fff;
+	width: 425px;
+	height: 445px;
+	background-color: transparent;
+	margin-left: 300px;
+	padding-left: 15px;
+}
+
+div#header {
+	width: 50%;
+	height: 30px;
+	margin-top: 15px;
+	background-color: transparent;
+	border-bottom: 0px solid #fff;
+	margin-bottom: 20px;
+	font-size: 200%;
+}
+
+div#content {
+	border: 0px solid #222;
+}
+
+div#content.big {
+	width: 80%;
+	height: 445px;
+	background-color: transparent;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+div#content.second {
+	width: 270px;
+	background-color: #C8CE2C;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 100%;
+	text-align: left;
+	color: #222;
+	border: 1px solid #222;
+	padding: 5px;
+}
+
+div#content.third {
+	width: 270px;
+	background-color: #AECF29;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 100%;
+	text-align: left;
+	color: #222;
+	padding: 5px;
+	border: 1px solid #222;
+}
+
+div#content.fourth {
+	width: 270px;
+	background-color: #222;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 100%;
+	text-align: right;
+	color: #fff;
+	padding: 5px;
+	border: 1px solid #222;
+}
+
+div#content.fourth a {
+	color: #fff;
+} 
+
+div#content.fifth {
+	width: 270px;
+	background-color: #AECF29;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 100%;
+	text-align: right;
+	color: #fff;
+	padding: 5px;
+	border: 1px solid #222;
+}
+
+div#content.empty {
+	width: 270px;
+	background-color: #FCD526;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-size: 100%;
+	text-align: left;
+	color: #222;
+	padding: 5px;
+	border: 1px solid #222;
+}
+
+div#photodiv {
+	background-repeat: no-repeat;
+	width: 425px;
+	height: 445px;
+}
+
+div#content.grey {
+	color: #222;
+}
+
+a {
+	color: #222;
+	text-decoration: none;
+}

@@ -1,0 +1,28 @@
+8
+
+dir
+1
+svn+ssh://koosishart.de/home/koos/svn-repos/jankus.org/css
+svn+ssh://koosishart.de/home/koos/svn-repos/jankus.org
+
+
+
+2008-01-29T09:22:05.937638Z
+1
+koos
+
+
+svn:special svn:externals svn:needs-lock
+
+jankus.org.css
+file
+5
+
+
+
+2008-02-24T14:19:58.000000Z
+a70a3753026818d002ceeae74f2c654a
+2008-02-27T15:19:07.437186Z
+5
+koos
+
